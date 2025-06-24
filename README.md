@@ -4,12 +4,6 @@ A responsive web application built with **HTML**, **CSS**, and **JavaScript** th
 
 ---
 
-## 📸 Live Preview
-
-[Image SearchEngine Live Preview](https://image-searchengine0405.netlify.app/)
-
----
-
 ## 🌟 Features
 
 - 🔍 Search for images using **Pixabay API**
@@ -26,6 +20,12 @@ A responsive web application built with **HTML**, **CSS**, and **JavaScript** th
 - **CSS3** – Styling and responsive layout
 - **JavaScript** – DOM manipulation and API integration
 - **Pixabay API** – Source of free images
+
+---
+
+## 📸 Live Preview
+
+[Image SearchEngine Live Preview](https://image-searchengine0405.netlify.app/)
 
 ---
 
